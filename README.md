@@ -4,7 +4,7 @@
  <img alt="digispark" src="https://github.com/Fincao/PrintScreen-Arduino/blob/master/img/pro%20micro.png" width="162px">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![code with hearth by William](https://img.shields.io/badge/<%5C>%20with%20♥%20by-Will-red)](https://github.com/Fincao)
@@ -12,5 +12,14 @@
 
 <br>
 <p align="center">
-Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc" nas bibliotecas do Arduíno.<img height="16" width="16" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/facebook.svg" />.
+Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc" nas bibliotecas do Arduíno.
 </p>
+
+<br>
+
+ - Sketch escrito para **Windows 10**, não funciona em outro sistema.
+ - Para **Arduino Pro Micro**  &  **Arduino Leonardo**.
+ 
+ <br>
+ 
+ 
