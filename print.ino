@@ -34,11 +34,11 @@ void setup()
   // O RESTO DO CÓDIGO É SÓ UMA PROVA DE QUE FUNCIONA...        
     
   // ABRE O PAINT
-  delay(400);
+  delay(650);
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
   Keyboard.releaseAll();
-  delay(500);
+  delay(1000);
   Keyboard.print("mspaint");
   typeKey(KEY_RETURN);
 
