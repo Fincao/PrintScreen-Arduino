@@ -11,7 +11,7 @@
 
 <br>
 <p align="center">
-Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc" nas bibliotecas do Arduíno.
+Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc" do ABNT2 nas bibliotecas do Arduíno, para Windows 10.
 </p>
 
 <br>
