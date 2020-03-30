@@ -18,7 +18,7 @@ Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc"
 <br>
 
  - Sketch escrito para **Windows 10**, não funciona para outro sistema.
- - Para **Arduino Pro Micro**  &  **Arduino Leonardo**.
+ - Para **Arduino Pro Micro**  &  **Arduino Leonardo** ![Arduino](https://img.shields.io/badge/IDE-Arduino-blue?logo=Arduino&style=flat).
  
  <br>
  
