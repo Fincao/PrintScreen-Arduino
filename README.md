@@ -12,12 +12,12 @@
 
 <br>
 <p align="center">
-Faz o Screenshot da tela 📷 com Arduíno, contornando a falta da tecla "prtsc" do ABNT2 nas bibliotecas do Arduíno, para Windows 10.
+Faz o Screenshot da tela 📷 com Arduino, contornando a falta da tecla "prtsc" do ABNT2 nas bibliotecas do Arduíno, para Windows 10.
 </p>
 
 <br>
 
- - Sketch escrito para **Windows 10**, não funciona para outro sistema.
+ - Sketch escrito para **Windows 10**, não funciona para outro sistema ![conexões simultaneas](https://img.shields.io/badge/10-Windows-blue?logo=Windows&style=flat).
  - Para **Arduino Pro Micro**  &  **Arduino Leonardo** ![Arduino](https://img.shields.io/badge/IDE-Arduino-blue?logo=Arduino&style=flat).
  
  <br>
