@@ -21,11 +21,11 @@ void setup()
   Keyboard.releaseAll(); 
   delay(1000);
    typeKey(KEY_TAB);
-   delay(200);
+   delay(250);
    typeKey(KEY_TAB);
-   delay(200);
+   delay(260);
    typeKey(KEY_TAB);
-   delay(200);
+   delay(255);
    typeKey(KEY_TAB);
    delay(200); 
    typeKey(KEY_RETURN); 
@@ -38,12 +38,12 @@ void setup()
   Keyboard.press(KEY_LEFT_GUI);
   Keyboard.press('r');
   Keyboard.releaseAll();
-  delay(1000);
+  delay(1200);
   Keyboard.print("mspaint");
   typeKey(KEY_RETURN);
 
   // COLA O PRINTSCREEN
-  delay(3200);
+  delay(3400);
   Keyboard.press(KEY_LEFT_CTRL);
   Keyboard.press('v');
   delay(100);
